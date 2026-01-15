@@ -4,7 +4,7 @@ A Flutter app showcasing a Chrome-style tab bar with smooth animations and a mod
 
 ## Demo
 
-![Demo](../ui-demo-gif.gif)
+![Demo](ui-demo-gif.gif)
 
 ## Features
 
